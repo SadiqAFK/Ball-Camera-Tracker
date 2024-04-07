@@ -1,0 +1,11 @@
+path: C:/Users/Sadiq/Documents/School/ComputerVision/project/data
+train: train
+test: test
+val: valid
+
+#Define Classes and their Labels
+
+names:
+  0: Ball
+  1: Player
+  2: Referee
